@@ -24,6 +24,9 @@ code {
   height: 2.5em;
 }
 
-h1 {
+h1, .form-control {
   font-size: 7.5vw;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
 }

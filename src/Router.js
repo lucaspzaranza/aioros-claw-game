@@ -1,5 +1,5 @@
 import React from "react";
-import { Route, Routes} from "react-router-dom";
+import { Navigate, Route, Routes} from "react-router-dom";
 
 import Loading from "./pages/Loading";
 import InGame from "./pages/InGame";
@@ -18,6 +18,7 @@ export default function Router() {
                 <Route path={InGameRouter} exact element={<InGame/>}/>
                 <Route path={RankingRouter} exact element={<Ranking/>}/>
                 <Route path={EndGameRouter} exact element={<EndGame/>}/>
+                <Route path="*" element={<Navigate to={HomeRouter} replace/>}/>
             </Routes>
         </ClawProvider>
     )
