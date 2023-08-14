@@ -1,0 +1,17 @@
+:root {
+    --vertical-margin: -20px;
+}
+
+.claw {
+    height: 42.5vh;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.d-pad {
+    margin-top: 4.5em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
