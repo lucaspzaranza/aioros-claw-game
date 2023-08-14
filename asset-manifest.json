@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/claw-game/static/css/main.c2df3fdc.css",
-    "main.js": "/claw-game/static/js/main.f9c42b60.js",
-    "static/js/845.4700a4cd.chunk.js": "/claw-game/static/js/845.4700a4cd.chunk.js",
-    "static/media/music.mp3": "/claw-game/static/media/music.18c2f78a8c93cd30f294.mp3",
-    "static/media/button.wav": "/claw-game/static/media/button.128b3ef4df3a51c6da50.wav",
-    "static/media/PNL_BACKGROUND.png": "/claw-game/static/media/PNL_BACKGROUND.97b1207400e8363ca61b.png",
-    "static/media/BTN_Garra.png": "/claw-game/static/media/BTN_Garra.f2d3a5d58c3a2e7833dc.png",
-    "static/media/BTN_Garra-DW.png": "/claw-game/static/media/BTN_Garra-DW.1fa465e4d835d6d71454.png",
-    "index.html": "/claw-game/index.html",
-    "main.c2df3fdc.css.map": "/claw-game/static/css/main.c2df3fdc.css.map",
-    "main.f9c42b60.js.map": "/claw-game/static/js/main.f9c42b60.js.map",
-    "845.4700a4cd.chunk.js.map": "/claw-game/static/js/845.4700a4cd.chunk.js.map"
+    "main.css": "/aioros-claw-game/static/css/main.049ad50c.css",
+    "main.js": "/aioros-claw-game/static/js/main.555e876b.js",
+    "static/js/845.4700a4cd.chunk.js": "/aioros-claw-game/static/js/845.4700a4cd.chunk.js",
+    "static/media/music.mp3": "/aioros-claw-game/static/media/music.18c2f78a8c93cd30f294.mp3",
+    "static/media/button.wav": "/aioros-claw-game/static/media/button.128b3ef4df3a51c6da50.wav",
+    "static/media/PNL_BACKGROUND.png": "/aioros-claw-game/static/media/PNL_BACKGROUND.97b1207400e8363ca61b.png",
+    "static/media/BTN_Garra.png": "/aioros-claw-game/static/media/BTN_Garra.f2d3a5d58c3a2e7833dc.png",
+    "static/media/BTN_Garra-DW.png": "/aioros-claw-game/static/media/BTN_Garra-DW.1fa465e4d835d6d71454.png",
+    "index.html": "/aioros-claw-game/index.html",
+    "main.049ad50c.css.map": "/aioros-claw-game/static/css/main.049ad50c.css.map",
+    "main.555e876b.js.map": "/aioros-claw-game/static/js/main.555e876b.js.map",
+    "845.4700a4cd.chunk.js.map": "/aioros-claw-game/static/js/845.4700a4cd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c2df3fdc.css",
-    "static/js/main.f9c42b60.js"
+    "static/css/main.049ad50c.css",
+    "static/js/main.555e876b.js"
   ]
 }
